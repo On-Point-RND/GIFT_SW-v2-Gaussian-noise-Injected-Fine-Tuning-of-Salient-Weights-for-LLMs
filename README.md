@@ -14,12 +14,12 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-<h1 align="center"> <p>🤗 GIFT-SW with PEFT</p></h1>
+<h1 align="center"> <p>🤗 [ACL 2025] GIFT-SW with PEFT</p></h1>
 <h3 align="center">
     <p>GIFT-SW with State-of-the-art Parameter-Efficient Fine-Tuning (PEFT) methods</p>
 </h3>
 
-This repository contains code for [GIFT-SW](https://arxiv.org/abs/2408.15300v1) method implemented with [PEFT library](https://huggingface.co/PEFT). It could be used in the same interface as usual PEFT methods and easily pluggable into any code.
+This repository contains code for ACL 2025 Paper [GIFT-SW](https://arxiv.org/abs/2408.15300v1) method implemented with [PEFT library](https://huggingface.co/PEFT). It could be used in the same interface as usual PEFT methods and easily pluggable into any code.
 
 PEFT is integrated with Transformers for easy model training and inference, Diffusers for conveniently managing different adapters, and Accelerate for distributed training and inference for really big models.
 
